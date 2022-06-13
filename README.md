@@ -1,3 +1,3 @@
 # AI-Camp
 
-Code done in AI camp.
+Codes that I wrote in AI camp.
